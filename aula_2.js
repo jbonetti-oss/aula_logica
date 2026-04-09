@@ -19,5 +19,3 @@ console.log("A média é " + media);
 // }
 
 console.log("Resultado: " + (media <= 5 ? "Reprovado" : media <= 6.9 ? "Recuperação" : "Aprovado"));
-
-// É o eduardo matando geral
